@@ -31,7 +31,7 @@ public class ConnectionDemo {
         sessionFactory.close();
         System.out.println("sessionFactory closed");
 
-        System.out.println("program ends..");
+        System.out.println("program ends.........");
 
     }
 }

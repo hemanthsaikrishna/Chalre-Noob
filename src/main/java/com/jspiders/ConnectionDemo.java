@@ -30,8 +30,9 @@ public class ConnectionDemo {
         //close session factory
         sessionFactory.close();
         System.out.println("sessionFactory closed");
-        System.out.println("Hemanth is trying to add me in chalre noob repository");
+        System.out.println("Hemanth is trying to add me in chalre noob repositorys");
         System.out.println("program ends..");
+        System.out.println("In program i added dinga branch");
 
     }
 }
